@@ -80,10 +80,16 @@ Paisable is a **full-stack personal finance management app** built with **React 
 
 ## Getting Started
 
+### Prerequisites
+
+* Node.js (v16 or higher)
+* MongoDB (MongoDB Atlas or local instance)
+* npm or yarn
+
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nikky-kumar7505/Paisable.git
 cd paisable
 ```
 
@@ -188,7 +194,3 @@ You can:
 * Build Command: `npm run build`
 * Publish Directory: `dist`
 * Set Environment Variable: `VITE_API_URL=<your-backend-url>/api`
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
